@@ -1,12 +1,12 @@
 ---
 layout: post
 title: DOGE's Latest Cuts Will Hit Local Culture Hard Hard
-subtitle: Katina Rogers in Slate
+subtitle: Excerpt from Slate
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 # tags: [books, test]
-author: Hannah Alpert-Abrams
+author: Katina Rogers
 ---
 
 A book discussion series in rural Idaho public libraries. A program for veterans that uses war memorials as a way to spark remembrance and connection. An event series showcasing America’s wide-ranging music traditions. Support for the Sitka Native Education Program in Alaska. Summer institutes for teachers nationwide. Modest stipends to support individual research. These are just a few of the programs at risk following the Department of Government Efficiency’s drastic decision last week to rescind more than 1,000 grants that had been awarded by the National Endowment for the Humanities.
