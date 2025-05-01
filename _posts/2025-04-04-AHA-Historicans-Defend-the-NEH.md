@@ -4,7 +4,7 @@ title: Historians Defend the National Endowment for the Humanities and American 
 # subtitle: Excerpted from The New York Times
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-# tags: [test]
+tags: [Statement]
 # comments: true
 # mathjax: true
 author: American Historical Association

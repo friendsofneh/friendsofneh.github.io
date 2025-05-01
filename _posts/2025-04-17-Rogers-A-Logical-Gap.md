@@ -4,7 +4,7 @@ title: A Logical Gap Behind Attacks on the Humanities
 subtitle: Excerpted from Inside Higher Ed
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-# tags: [test]
+ tags: [Opinion]
 # comments: true
 # mathjax: true
 author: Katina Rogers

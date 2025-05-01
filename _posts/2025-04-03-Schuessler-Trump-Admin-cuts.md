@@ -4,7 +4,7 @@ title: Trump Administration Moves to Cut Humanities Endowment
 subtitle: Excerpted from The New York Times
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-# tags: [test]
+tags: [News]
 # comments: true
 # mathjax: true
 author: Jennifer Schuessler

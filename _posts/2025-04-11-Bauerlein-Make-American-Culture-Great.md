@@ -4,7 +4,7 @@ title: Trump Wants to Make American Culture Great Again. This Is How He Should D
 subtitle: Excerpted from The New York Times
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-# tags: [test]
+ tags: [Opinion]
 # comments: true
 # mathjax: true
 author: Mark Bauerlein

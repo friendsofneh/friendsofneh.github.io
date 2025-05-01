@@ -4,7 +4,7 @@ title: Joint Statement on Cuts to the National Endowment for the Humanities
 # subtitle: Excerpted from The New York Times
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-# tags: [test]
+tags: [Statement]
 # comments: true
 # mathjax: true
 author: The American Council of Learned Societies, the Council of Graduate Schools, and The Phi Beta Kappa Society

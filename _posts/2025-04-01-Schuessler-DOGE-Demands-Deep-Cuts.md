@@ -4,7 +4,7 @@ title: DOGE Demands Deep Cuts at Humanities Endowment
 subtitle: Excerpted from The New York Times
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-# tags: [test]
+tags: [News]
 # comments: true
 # mathjax: true
 author: Jennifer Schuessler
