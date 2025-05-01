@@ -46,4 +46,4 @@ For interview requests, please contact hmangrum@acls.org (ACLS), press@historian
 
 For more information about the lawsuit, access our [FAQs](https://www.historians.org/news/faqs-regarding-the-lawsuit-opposing-the-dismantling-of-the-neh/). 
 
-[Read at AHA](https://www.historians.org/news/faqs-regarding-the-lawsuit-opposing-the-dismantling-of-the-neh/)
+[Read at AHA](https://www.historians.org/news/american-council-of-learned-societies-american-historical-association-and-modern-language-association-file-lawsuit-alleging-illegal-dismantling-of-national-endowment-for-the-humanities/)
