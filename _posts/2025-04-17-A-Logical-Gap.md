@@ -8,6 +8,7 @@ subtitle: Excerpt from Inside Higher Ed
 # comments: true
 # mathjax: true
 author: Katina Rogers
+---
 
 Researchers across the country who had been awarded prestigious grants from the National Endowment for the Humanities recently learned that their awards had been canceled. As Department of Government Efficiency reductions sweep through critical government agencies, higher education has been a clear target—not only through cuts at federal agencies like the NEH, but also through pressure levied on institutions like Columbia and Harvard Universities and, horribly, through Immigration and Customs Enforcement detainments that seem to take aim at politically engaged scholars like Rümeysa Öztürk. This targeting builds on decades of disinvestment—underfunding, fewer faculty lines and program closures—that have left humanities education fragile, and therefore vulnerable.
 

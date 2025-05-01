@@ -9,6 +9,6 @@ title: Announcing the NEH Alumni Network
 author: Hannah Alpert-Abrams
 ---
 
-Former NEH staff and interns are invited to join the NEH alumni network, a list serve that will allow past NEH staff to connect, share information, and stay up to date on NEH events.
+Former NEH staff and interns are invited to join [the NEH alumni network](https://groups.google.com/u/6/g/nehalumni), a list serve that will allow past NEH staff to connect, share information, and stay up to date on NEH events.
 
 Join here: [https://groups.google.com/u/6/g/nehalumni](https://groups.google.com/u/6/g/nehalumni)
