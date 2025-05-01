@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Logical Gap Behind Attacks on the Humanities
-subtitle: Excerpt from Inside Higher Ed
+subtitle: Excerpted from Inside Higher Ed
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # tags: [test]
